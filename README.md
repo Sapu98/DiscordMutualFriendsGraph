@@ -13,3 +13,12 @@ The process may take hours as requestion dicord api too fast will temp ban you. 
 
 ## Example output
 https://ldflabs.com/graph.html
+
+My full graph:
+![raw](https://github.com/Sapu98/DiscordMutualFriendsGraph/assets/13931972/704dde5c-fa25-4c9b-967b-3a88fea919f8)
+
+Zoomed in:
+![raw (1)](https://github.com/Sapu98/DiscordMutualFriendsGraph/assets/13931972/88009b4c-036c-436a-a93d-c761d7eedb57)
+
+Blue nodes are you friends
+Green nodes are people that have atleat one of your friends as their friend
