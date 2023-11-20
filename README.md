@@ -17,4 +17,5 @@ https://ldflabs.com/graph.html
 ![raw (1)](https://github.com/Sapu98/DiscordMutualFriendsGraph/assets/13931972/88009b4c-036c-436a-a93d-c761d7eedb57)
 
 Blue nodes are you friends
+
 Green nodes are people that have atleat one of your friends as their friend
