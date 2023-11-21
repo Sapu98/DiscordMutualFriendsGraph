@@ -9,7 +9,7 @@ You will have to install manually the latest version from sources https://github
 3) Open graph.html
 4) Profit
 
-The process may take hours as requestion dicord api too fast will temp ban you. (edit the sleep function at your own risk, it's safe atm, tested on 10000+ requests for about 6 hours working continuously)
+The process may take hours as requesting dicord api too fast will temp ban you. (edit the sleep function at your own risk, it's safe atm, tested on 10000+ requests for about 6 hours working continuously)
 
 ## Example output
 https://ldflabs.com/graph.html
